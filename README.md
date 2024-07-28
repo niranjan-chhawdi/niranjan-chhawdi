@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and React native**
 
-- 👨‍💻 All of my projects are available at [niranjanchhawdi.com](niranjanchhawdi.com)
+- 👨‍💻 All of my projects are available at [niranjanchhawdi.com](https://niranjanchhawdi.com/)
 
 - 📝 I regularly write articles on [coderlab.ca](coderlab.ca)
 
