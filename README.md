@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react , python , java , firebase**
 
-- 📫 How to reach me **support@niranjanchhawdi.com**
+- 📫 How to reach me **contact@niranjanchhawdi.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
