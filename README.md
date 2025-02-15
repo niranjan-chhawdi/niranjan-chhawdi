@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [niranjanchhawdi.com](https://niranjanchhawdi.com/)
 
-- 📝 I regularly write articles on [coderlab.ca](https://coderlab.ca/)
-
 - 💬 Ask me about **react , python , java , firebase**
 
 - 📫 How to reach me **contact@niranjanchhawdi.com**
