@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niranjan Chhawdi</h1>
-<h3 align="center">Innovative College Student, Shaping the Future with Apps and Games.</h3>
+<h3 align="center">Just a  Computer Science Student, Trying to create some Apps and Games.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjan-chhawdi&label=Profile%20views&color=0e75b6&style=flat" alt="niranjan-chhawdi" /> </p>
 
