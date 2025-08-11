@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [niranjanchhawdi.com](https://niranjanchhawdi.com/)
 
-- 💬 Ask me about **react , python , java , firebase**
+- 💬 Ask me about **React , Python , JavaScript , Firebase**
 
 - 📫 How to reach me **contact@niranjanchhawdi.com**
 
